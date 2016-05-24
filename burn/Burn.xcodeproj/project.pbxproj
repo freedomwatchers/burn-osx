@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 45;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -179,32 +179,32 @@
 		FE6DBFD10BDCED47006F5F53 /* KWInspector.nib in Resources */ = {isa = PBXBuildFile; fileRef = FE6DBFCF0BDCED47006F5F53 /* KWInspector.nib */; };
 		FE7C160412DBCAF900CFDA59 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C160212DBCAF900CFDA59 /* Growl.framework */; };
 		FE7C160512DBCAF900CFDA59 /* MultiTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C160312DBCAF900CFDA59 /* MultiTag.framework */; };
-		FE7C160A12DBCB0200CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C160212DBCAF900CFDA59 /* Growl.framework */; };
-		FE7C160B12DBCB0200CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C160312DBCAF900CFDA59 /* MultiTag.framework */; };
+		FE7C160A12DBCB0200CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C160212DBCAF900CFDA59 /* Growl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C160B12DBCB0200CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C160312DBCAF900CFDA59 /* MultiTag.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		FE7C161A12DBCB1B00CFDA59 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C161812DBCB1B00CFDA59 /* Growl.framework */; };
 		FE7C161B12DBCB1B00CFDA59 /* MultiTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C161912DBCB1B00CFDA59 /* MultiTag.framework */; };
-		FE7C162712DBCB2B00CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C161812DBCB1B00CFDA59 /* Growl.framework */; };
-		FE7C162812DBCB2B00CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C161912DBCB1B00CFDA59 /* MultiTag.framework */; };
+		FE7C162712DBCB2B00CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C161812DBCB1B00CFDA59 /* Growl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C162812DBCB2B00CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C161912DBCB1B00CFDA59 /* MultiTag.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		FE7C162E12DBCB4100CFDA59 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162C12DBCB4100CFDA59 /* Growl.framework */; };
 		FE7C162F12DBCB4100CFDA59 /* MultiTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162D12DBCB4100CFDA59 /* MultiTag.framework */; };
 		FE7C163012DBCB4100CFDA59 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162C12DBCB4100CFDA59 /* Growl.framework */; };
 		FE7C163112DBCB4100CFDA59 /* MultiTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162D12DBCB4100CFDA59 /* MultiTag.framework */; };
-		FE7C163612DBCB5000CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162C12DBCB4100CFDA59 /* Growl.framework */; };
-		FE7C163712DBCB5000CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162D12DBCB4100CFDA59 /* MultiTag.framework */; };
-		FE7C163F12DBCB5800CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162C12DBCB4100CFDA59 /* Growl.framework */; };
-		FE7C164012DBCB5800CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162D12DBCB4100CFDA59 /* MultiTag.framework */; };
+		FE7C163612DBCB5000CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162C12DBCB4100CFDA59 /* Growl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C163712DBCB5000CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162D12DBCB4100CFDA59 /* MultiTag.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C163F12DBCB5800CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162C12DBCB4100CFDA59 /* Growl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C164012DBCB5800CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C162D12DBCB4100CFDA59 /* MultiTag.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		FE7C164612DBCB7800CFDA59 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C164412DBCB7800CFDA59 /* Growl.framework */; };
 		FE7C164712DBCB7800CFDA59 /* MultiTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C164512DBCB7800CFDA59 /* MultiTag.framework */; };
-		FE7C164C12DBCB8900CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C164412DBCB7800CFDA59 /* Growl.framework */; };
-		FE7C164D12DBCB8900CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C164512DBCB7800CFDA59 /* MultiTag.framework */; };
+		FE7C164C12DBCB8900CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C164412DBCB7800CFDA59 /* Growl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C164D12DBCB8900CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C164512DBCB7800CFDA59 /* MultiTag.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		FE7C165A12DBCBBC00CFDA59 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C165812DBCBBC00CFDA59 /* Growl.framework */; };
 		FE7C165B12DBCBBC00CFDA59 /* MultiTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C165912DBCBBC00CFDA59 /* MultiTag.framework */; };
-		FE7C166012DBCBC500CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C165812DBCBBC00CFDA59 /* Growl.framework */; };
-		FE7C166112DBCBC500CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C165912DBCBBC00CFDA59 /* MultiTag.framework */; };
+		FE7C166012DBCBC500CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C165812DBCBBC00CFDA59 /* Growl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C166112DBCBC500CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C165912DBCBBC00CFDA59 /* MultiTag.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		FE7C166E12DBCBDD00CFDA59 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C166C12DBCBDD00CFDA59 /* Growl.framework */; };
 		FE7C166F12DBCBDD00CFDA59 /* MultiTag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C166D12DBCBDD00CFDA59 /* MultiTag.framework */; };
-		FE7C167B12DBCBFE00CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C166C12DBCBDD00CFDA59 /* Growl.framework */; };
-		FE7C167C12DBCBFE00CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C166D12DBCBDD00CFDA59 /* MultiTag.framework */; };
+		FE7C167B12DBCBFE00CFDA59 /* Growl.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C166C12DBCBDD00CFDA59 /* Growl.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		FE7C167C12DBCBFE00CFDA59 /* MultiTag.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = FE7C166D12DBCBDD00CFDA59 /* MultiTag.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		FE8088EC0DBC85C100F2644D /* -1.png in Resources */ = {isa = PBXBuildFile; fileRef = FE8088EB0DBC85C100F2644D /* -1.png */; };
 		FE8088ED0DBC85C100F2644D /* -1.png in Resources */ = {isa = PBXBuildFile; fileRef = FE8088EB0DBC85C100F2644D /* -1.png */; };
 		FE8088EE0DBC85C100F2644D /* -1.png in Resources */ = {isa = PBXBuildFile; fileRef = FE8088EB0DBC85C100F2644D /* -1.png */; };
@@ -2163,8 +2163,12 @@
 /* Begin PBXProject section */
 		2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
 			buildConfigurationList = C05733CB08A9546B00998B17 /* Build configuration list for PBXProject "Burn" */;
-			compatibilityVersion = "Xcode 3.1";
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
 				English,
@@ -3348,21 +3352,25 @@
 		C05733C808A9546B00998B17 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = i386;
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/Universal\"";
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					QTKit,
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -3371,19 +3379,23 @@
 		C05733C908A9546B00998B17 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/Universal\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_MODEL_TUNING = G4;
+				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					QTKit,
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -3391,47 +3403,48 @@
 		C05733CC08A9546B00998B17 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				ENABLE_TESTABILITY = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = USE_QTKIT;
-				GCC_VERSION = 4.0;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_FILE = Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					QTKit,
 				);
 				PREBINDING = NO;
-				SDKROOT = macosx10.4;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
 		C05733CD08A9546B00998B17 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					ppc,
-					i386,
-				);
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				GCC_PREPROCESSOR_DEFINITIONS = USE_QTKIT;
-				GCC_VERSION = 4.0;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_FILE = Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					QTKit,
 				);
 				PREBINDING = NO;
-				SDKROOT = macosx10.4;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
 		FE5461DB12DA2E2E00461081 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/Frameworks/Universal 64-bit\"";
@@ -3443,10 +3456,11 @@
 				INFOPLIST_FILE = "Info copy.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -3455,10 +3469,7 @@
 		FE5461DC12DA2E2E00461081 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					ppc64,
-					x86_64,
-				);
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/Frameworks/Universal 64-bit\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
@@ -3470,14 +3481,15 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_LDFLAGS = "";
 				"OTHER_LDFLAGS[sdk=macosx10.5][arch=x86_64]" = (
 					"-framework",
 					QTKit,
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -3485,7 +3497,7 @@
 		FE8AFAA112DA1BDC004A83B9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/Frameworks/PowerPC 64-bit\"";
@@ -3497,10 +3509,11 @@
 				INFOPLIST_FILE = "Info copy 2.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -3509,7 +3522,7 @@
 		FE8AFAA212DA1BDC004A83B9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = ppc64;
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/Frameworks/PowerPC 64-bit\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
@@ -3519,10 +3532,11 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -3530,7 +3544,7 @@
 		FEA467980D97BDC60083527F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/PowerPC\"";
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -3540,7 +3554,9 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -3549,15 +3565,17 @@
 		FEA467990D97BDC60083527F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = ppc;
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/PowerPC\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_MODEL_TUNING = G4;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -3565,7 +3583,7 @@
 		FEA468100D97BDCD0083527F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/Intel\"";
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -3575,7 +3593,9 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -3584,15 +3604,17 @@
 		FEA468110D97BDCD0083527F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = i386;
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/Intel\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_MODEL_TUNING = G5;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.4;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -3600,7 +3622,7 @@
 		FEDBF5A30F80782A00DABA72 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/PowerPC\"";
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -3610,7 +3632,9 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -3619,15 +3643,17 @@
 		FEDBF5A40F80782A00DABA72 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = ppc;
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "\"$(SRCROOT)/Frameworks/PowerPC\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_MODEL_TUNING = G3;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -3635,7 +3661,7 @@
 		FEF8A88112D9D2BF00FE302C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/Frameworks/Intel 64-bit\"";
@@ -3647,10 +3673,11 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -3659,7 +3686,7 @@
 		FEF8A88212D9D2BF00FE302C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/Frameworks/Intel 64-bit\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
@@ -3668,10 +3695,11 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kiwifruitware.Burn;
 				PRODUCT_NAME = Burn;
-				SDKROOT = macosx10.5;
+				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
