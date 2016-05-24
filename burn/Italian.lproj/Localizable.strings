@@ -33,7 +33,7 @@
 	<key>Some files specified in the %@ file are missing.</key>
 	<string>Alcuni files specificati nel file %@ sono mancanti</string>
 	<key>Writing track (%@)</key>
-	<string>Scrittura tracia (%@)</string>
+	<string>Scrittura traccia (%@)</string>
 	<key>UDSB</key>
 	<string>Gruppo Immagini singole</string>
 	<key>Mounting: %@</key>
@@ -117,7 +117,7 @@
 	<key>Failed converting</key>
 	<string>Conversione fallita</string>
 	<key>Writing track %ld of %ld (%@)</key>
-	<string>Scrittura tracia %ld di %ld (%@)</string>
+	<string>Scrittura traccia %ld di %ld (%@)</string>
 	<key>Creating: </key>
 	<string>Creazione: </string>
 	<key>Burn</key>
