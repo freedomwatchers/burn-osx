@@ -1108,6 +1108,7 @@ static NSString*	EDBCurrentSelection							= @"EDBCurrentSelection";
 - (NSDictionary *)saveDictionaryForObject:(DRFSObject *)object
 {
 	NSMutableDictionary *subDict = [NSMutableDictionary dictionary];
+    NSString *fileSystem = ' ';
 	
 	[subDict setObject:[object propertiesForFilesystem:DRHFSPlus mergeWithOtherFilesystems:NO] forKey:@"HFSProperties"];
 	[subDict setObject:[object propertiesForFilesystem:DRISO9660 mergeWithOtherFilesystems:NO] forKey:@"ISOProperties"];
@@ -1124,7 +1125,8 @@ static NSString*	EDBCurrentSelection							= @"EDBCurrentSelection";
 	[subDict setObject:[NSNumber numberWithBool:([object effectiveFilesystemMask] & DRFilesystemInclusionMaskJoliet)] forKey:@"JolietEnabled"];	
 	
 	#if MAC_OS_X_VERSION_MAX_ALLOWED < 1050
-	NSString *fileSystem = DRJoliet;
+	//NSString
+    *fileSystem = DRJoliet;
 	
 	if ([KWCommonMethods OSVersion] >= 0x1040)
 		fileSystem = @"DRUDF";
