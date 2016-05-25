@@ -1,2 +1,3 @@
 language: objective-c
 xcode_project: burn/Burn.xcodeproj
+xcode_scheme: Burn (Universal 64-bit)
